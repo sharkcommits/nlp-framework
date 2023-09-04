@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 12 19:04:43 2023
 
-@author: wxebsz
-"""
 import numpy as np
 import pandas as pd
 import tensorflow_hub as hub
